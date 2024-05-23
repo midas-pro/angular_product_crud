@@ -1,22 +1,10 @@
 <h1 align="center">
-	<img alt="Product list logo" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/frontend/src/assets/svg/checklist.svg" height="67px" width="71px" />
+	<img alt="Product list logo" src="https://github.com/midas-pro/angular_product_crud/blob/main/frontend/src/assets/svg/checklist.svg" height="67px" width="71px" />
 </h1>
 
 <h3 align="center">
   Simple products project build with Angular 9
 </h3>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/angular-products-crud">
-
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/angular-products-crud">
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/angular-products-crud">
-</p>
 
 <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,7 +25,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/screenshots/angular-project-crud.gif" />
+	<img alt="Project Screenshots" src="https://github.com/midas-pro/angular_product_crud/blob/main/screenshots/angular-project-crud.gif" />
 </h1>
 
 <p>This application consists of a simple product CRUD created from my studies regarding Angular 9, so with it it is possible to list, create, update and delete products coming from a fake API.</p>
@@ -60,9 +48,9 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/midas-pro/angular_product_crud.git
 
-$ cd angular-products-crud
+$ cd angular_product_crud
 
 $ cd backend
 ```
@@ -83,9 +71,9 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/midas-pro/angular_product_crud.git
 
-$ cd angular-products-crud
+$ cd angular_product_crud
 
 $ cd backend
 
@@ -103,7 +91,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Backend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/midas-pro/angular_product_crud/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
 
@@ -131,14 +119,6 @@ Technologies that I used to develop this frontend app
 
 **Clone the project and access the folder**
 
-```bash
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
-
-$ cd angular-products-crud
-
-$ cd frontend
-```
-
 **Follow the steps below**
 
 ```bash
@@ -156,13 +136,6 @@ $ http://localhost:4200
 
 **Follow the steps below**
 
-```bash
-# Clone your fork
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
-
-$ cd angular-products-crud
-
-$ cd frontend
 
 # Create a branch with your feature
 $ git checkout -b your-feature
@@ -176,10 +149,3 @@ $ git push origin your-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 Frontend License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
-
----
-
-Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
